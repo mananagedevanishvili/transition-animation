@@ -27,7 +27,7 @@ div.line{
     justify-content: center;
     color:#fff;
     font-weight:bold;
-    transition:background 1s, transform 1s 1s ease-in;
+    transition:background 1s, transform 1s .5s ease-in;
 }
 .circle:hover{
     background:salmon;
